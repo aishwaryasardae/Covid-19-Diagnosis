@@ -42,5 +42,14 @@ Three models were created:
    ![vgg19_loss](https://github.com/aishwaryasardae/Covid-19-Detection-Using-DeepLearning/assets/109073392/b0c2b623-7fb3-4158-9488-b4670872f85e)
 
 
+Among the models tested, the VGG16 model demonstrated the highest accuracy, achieving 96% accuracy in detecting COVID-19 diagnosis.
+
+
+
+
+
+
+
+
 
 
