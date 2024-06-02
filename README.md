@@ -9,10 +9,11 @@ The dataset utilized in this study is a compilation of several sources, from whi
 __Positive Cases__: https://github.com/ieee8023/covid-chestxray-dataset  
 __Normal Cases__: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  
 
-## __Model Details_
+## __Model Details__
 Three models were created:
 1. CNN Model
 2. VGG-16
 3. VGG-19
 
-# __ACCURACY GRAPHS__
+## __ACCURACY GRAPHS__
+
