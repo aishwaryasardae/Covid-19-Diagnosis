@@ -21,3 +21,26 @@ Three models were created:
 
    ![cnn_accuracy](https://github.com/aishwaryasardae/Covid-19-Detection-Using-DeepLearning/assets/109073392/9acec626-45c8-4240-9b7f-43c7fc405a18)
 
+2. ### __CNN LOSS GRAPH__ :
+   
+   ![cnn_loss](https://github.com/aishwaryasardae/Covid-19-Detection-Using-DeepLearning/assets/109073392/175e23f5-16ee-446a-b4b5-2b600ec7fe24)
+
+3. ### __VGG16 ACCURACY GRAPH__ :
+
+   ![vgg16_accuracy](https://github.com/aishwaryasardae/Covid-19-Detection-Using-DeepLearning/assets/109073392/f316f028-4dd4-4715-bf31-260901536d21)
+
+4. ### __VGG16 LOSS GRAPH__ :
+
+   ![vgg16_loss](https://github.com/aishwaryasardae/Covid-19-Detection-Using-DeepLearning/assets/109073392/842bff08-046c-444f-b7ad-32955aef6b15)
+
+5. ### __VGG19 ACCURACY GRAPH__ :
+
+   ![vgg19_accuracy](https://github.com/aishwaryasardae/Covid-19-Detection-Using-DeepLearning/assets/109073392/3f6f49c6-31c8-41d3-b6b8-c13e1e227bd4)
+
+6. ### __VGG19 LOSS GRAPH__ :
+
+   ![vgg19_loss](https://github.com/aishwaryasardae/Covid-19-Detection-Using-DeepLearning/assets/109073392/b0c2b623-7fb3-4158-9488-b4670872f85e)
+
+
+
+
