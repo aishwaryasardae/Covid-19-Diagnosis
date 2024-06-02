@@ -17,3 +17,7 @@ Three models were created:
 
 ## __ACCURACY GRAPHS__
 
+1. ### __CNN ACCURACY GRAPH__ :
+
+   ![cnn_accuracy](https://github.com/aishwaryasardae/Covid-19-Detection-Using-DeepLearning/assets/109073392/9acec626-45c8-4240-9b7f-43c7fc405a18)
+
